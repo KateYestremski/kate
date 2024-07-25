@@ -1,0 +1,15 @@
+img{
+ height: auto;
+}
+h1{
+    color: black;
+    background-color: antiquewhite;
+}
+    p{
+        color: black;
+    }
+    h3{
+        color: black;
+        font: bold;
+        font-family: 'Times New Roman', Times, serif;
+    }

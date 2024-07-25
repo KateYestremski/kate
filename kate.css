@@ -1,0 +1,34 @@
+h1 { 
+    color: lightpink;
+font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    background-color: antiquewhite;
+}
+body{ 
+    color: lightpink;
+  background-color: antiquewhite;
+font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+}
+h2 {
+    color: lightpink;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    background-color: antiquewhite;
+}
+h3 { 
+    color: lightpink;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    background-color: antiquewhite;
+}
+h4 {
+    color: lightpink;
+   font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    background-color: antiquewhite;
+}
+img{
+    height:max-content;
+    border-width: 2px;
+}
